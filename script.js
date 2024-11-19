@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-
+    console.log("Hi!");
     //setup
     let choices = ["rock","paper","scissors"];
     let resultElement = document.getElementById("result");
